@@ -31,9 +31,14 @@ opam install coqide
 
 ```
 
-## run coq 
+## run coq, install coq packages 
 
 ```bash
 export OPAMROOT=~/opam-coq.8.9.0
 eval `opam config env`
+
+opam search coq
+opam show coq-sudoku
+opam install coq-sudoku
+
 ```
