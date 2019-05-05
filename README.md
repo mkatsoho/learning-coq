@@ -26,6 +26,14 @@ opam init -n --comp=ocaml-base-compiler.4.02.3 -j 2 # 2 is the number of CPU cor
 opam repo add coq-released http://coq.inria.fr/opam/released
 opam install coq.8.9.0 && opam pin add coq 8.9.0
 
-# 
+# install coq IDE
+opam install coqide
 
+```
+
+## run coq 
+
+```bash
+export OPAMROOT=~/opam-coq.8.9.0
+eval `opam config env`
 ```
