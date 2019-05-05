@@ -3,7 +3,7 @@
 
 ## what is coq
 
-Coq is an interactive theorem prover. In another word, you may believe it is a kind of language to prove theorem.
+Coq is an interactive theorem prover. In another word, you may believe it is a kind of language to prove theorem. I learn it due to function programming. 
 
 https://en.wikipedia.org/wiki/Coq
 
