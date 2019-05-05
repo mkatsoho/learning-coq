@@ -11,6 +11,8 @@ https://zh.wikipedia.org/wiki/Coq
 
 ## install coq in Ubuntu 16.04
 
+The installation of coq may be easier if using Ubuntu 18. Here is for 16.04, which has not direct support to bubblewrap. 
+
 ```bash
 # install opam (ocaml's package maanger), refer to http://opam.ocaml.org/doc/Install.html
 sh <(curl -sL https://raw.githubusercontent.com/ocaml/opam/master/shell/install.sh)
