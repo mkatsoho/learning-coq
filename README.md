@@ -27,6 +27,7 @@ opam repo add coq-released http://coq.inria.fr/opam/released
 opam install coq.8.9.0 && opam pin add coq 8.9.0
 
 # install coq IDE
+sudo apt install libgtksourceview2.0-dev    # prereq of coq IDE
 opam install coqide
 
 ```
