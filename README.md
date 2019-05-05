@@ -3,7 +3,11 @@
 
 ## what is coq
 
-TBD
+Coq is an interactive theorem prover. In another word, you may believe it is a kind of language to prove theorem.
+
+https://en.wikipedia.org/wiki/Coq
+
+https://zh.wikipedia.org/wiki/Coq
 
 ## install coq in Ubuntu 16.04
 
